@@ -1,3 +1,3 @@
 # Run this App
-cd src/
-run command: node index.js
+# cd src/
+# run command: node index.js
